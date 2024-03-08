@@ -185,7 +185,7 @@ body.light-theme {
 }
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
-  max-width: 1008px;
+ max-width: 1150px;
   margin-left: 1rem;
   margin-right: 1rem;
   /* width: 85%; */
@@ -344,7 +344,7 @@ body.light-theme {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 170px;
+  gap: 190px;
   padding: 40px 0px 220px 0px;
 }
 
