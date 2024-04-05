@@ -185,7 +185,7 @@ body.light-theme {
 }
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
- max-width: 1150px;
+  max-width: 1150px;
   margin-left: 1rem;
   margin-right: 1rem;
   /* width: 85%; */
@@ -1110,7 +1110,15 @@ body.light-theme {
   .contact__form {
     width: 340px;
   }
-    .about__img {
+
+  /* .hero-img{
+    width: 500px;
+    height: auto;
+  }
+  .main-hero{
+  
+  } */
+  .about__img {
     width: 552px;
     height: 400px;
     /* border-radius: 1.5rem;
@@ -1215,7 +1223,7 @@ body.light-theme {
   }
 
   .about__description {
-    padding: 0 4rem 0 0;
+    padding: 0 0rem 0 0;
     margin-bottom: 2.5rem;
   }
 
