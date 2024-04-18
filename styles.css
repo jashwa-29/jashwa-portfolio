@@ -1206,7 +1206,7 @@ body.light-theme {
 
   .about__img {
     width: 450px;
-    width: auto;
+    height: auto;
   }
 
   .about__data {
@@ -1225,8 +1225,9 @@ body.light-theme {
 
   .about__description {
     padding: 0 0rem 0 0;
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
   }
+
 
   /* .skills__container {
     grid-template-columns: repeat(2, 460px);
